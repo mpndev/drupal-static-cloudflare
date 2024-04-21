@@ -7,4 +7,4 @@ vendor/bin/drush upwd admin 123
 vendor/bin/drush generate phpstorm-metadata
 
 echo 'export PATH="./vendor/bin:$PATH"' >> ~/.bashrc
-export PATH="./vendor/bin:$PATH
+export PATH="./vendor/bin:$PATH"
